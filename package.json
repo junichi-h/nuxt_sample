@@ -1,0 +1,10 @@
+{
+  "name": "nuxt_sample",
+  "version": "1.0.0",
+  "description": "just a sample using nuxt.",
+  "main": "index.js",
+  "repository": "git@github.com:junichi-h/nuxt_sample.git",
+  "author": "Junichi Honda <junichi.hnd@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
